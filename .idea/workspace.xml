@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="035a540e-a62e-40fb-b884-e421139e4f1e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lyrical-GraphQL/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Lyrical-GraphQL/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lyrical-GraphQL" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,26 +20,7 @@
     <fileColor scope="Project Files" color="Rose" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SongList.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lyrical-GraphQL/client/components/SongList.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Lyrical-GraphQL/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -74,14 +54,13 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="NodeModulesDirectoryManager">
-    <handled-path value="$PROJECT_DIR$/Lyrical-GraphQL/node_modules" />
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="372" />
     <option name="y" value="22" />
     <option name="width" value="1308" />
-    <option name="height" value="853" />
+    <option name="height" value="851" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -120,30 +99,6 @@
             <path>
               <item name="graph_ql" type="b2602c69:ProjectViewProjectNode" />
               <item name="graph_ql" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="graph_ql" type="b2602c69:ProjectViewProjectNode" />
-              <item name="graph_ql" type="462c0819:PsiDirectoryNode" />
-              <item name="Lyrical-GraphQL" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="graph_ql" type="b2602c69:ProjectViewProjectNode" />
-              <item name="graph_ql" type="462c0819:PsiDirectoryNode" />
-              <item name="Lyrical-GraphQL" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="graph_ql" type="b2602c69:ProjectViewProjectNode" />
-              <item name="graph_ql" type="462c0819:PsiDirectoryNode" />
-              <item name="Lyrical-GraphQL" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="graph_ql" type="b2602c69:ProjectViewProjectNode" />
-              <item name="graph_ql" type="462c0819:PsiDirectoryNode" />
-              <item name="Lyrical-GraphQL" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -189,22 +144,21 @@
       <workItem from="1521132377764" duration="180000" />
       <workItem from="1523976635043" duration="4870000" />
       <workItem from="1523988768075" duration="5214000" />
-      <workItem from="1524035980845" duration="8484000" />
+      <workItem from="1524035980845" duration="8654000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21347000" />
+    <option name="totallyTimeSpent" value="21517000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="372" y="22" width="1308" height="853" extended-state="0" />
-    <editor active="true" />
+    <frame x="372" y="22" width="1308" height="851" extended-state="0" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.21964529" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.22024624" />
       <window_info anchor="right" id="FAQ Robot" order="3" />
       <window_info anchor="bottom" id="Code comment" order="8" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.380538" />
@@ -352,17 +306,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lyrical-GraphQL/client/components/SongList.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lyrical-GraphQL/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
           <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lyrical-GraphQL/client/components/SongList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
